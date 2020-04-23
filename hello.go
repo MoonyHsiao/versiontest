@@ -3,5 +3,5 @@ package versiontest
 import "fmt"
 
 func Hello() {
-	fmt.Println("是在哈樓"")
+	fmt.Println("是在哈樓")
 }
