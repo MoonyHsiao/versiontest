@@ -1,4 +1,4 @@
-package pkgfoo
+package versiontest
 
 import "fmt"
 
