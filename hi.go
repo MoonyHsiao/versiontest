@@ -3,5 +3,5 @@ package versiontest
 import "fmt"
 
 func Hi() {
-	fmt.Println("嗨")
+	fmt.Println("hi")
 }
